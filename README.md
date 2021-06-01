@@ -7,6 +7,7 @@ Reference link: https://guides.github.com/activities/hello-world/
 
 # Node JS
 Reference link: https://nodejs.org/en/about/ 
+Additional link: https://www.w3schools.com/nodejs/nodejs_intro.asp
 
 # React JS
 Reference link: https://reactjs.org/ 
