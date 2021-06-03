@@ -6,8 +6,29 @@ My Own Space
 Reference link: https://guides.github.com/activities/hello-world/ 
 
 # Node JS
-Reference link: https://nodejs.org/en/about/ <br />
+Relevent and Important concept: https://nodejs.dev/learn <br>
 Additional link: https://www.w3schools.com/nodejs/nodejs_intro.asp
+
+<b>Step 1: Install Node JS into your workstation</b>
+><ul>
+>  <li>macOS - https://nodejs.org/en/download/package-manager/#macos</li>
+>  <li>Windows - https://nodejs.org/en/download/package-manager/#windows</li>
+></ul>
+<b><i>Note* : [nvm] install guide (https://github.com/nvm-sh/nvm)<i></b><br/>
+><ol>
+>  <li>Installing through [nvm] is recommended and also a popular way to run Node.js.
+>    <ul>
+>      <li>allows you to easily switch the Node.js version</li>
+>      <li>test your code with old/new Node.js versions</li>
+>      <li>easily rollback if something breaks</li>
+>    </ul>
+>  </li>
+></ol>
+
+  
+Editor's recommendation:
+> My suggestion is to use the official installer if you are just starting out and you don't use Homebrew already, otherwise, Homebrew is my favorite solution.
+
 
 # React JS
 Reference link: https://reactjs.org/ 
