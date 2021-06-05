@@ -30,6 +30,19 @@ Editor's recommendation:
 > My suggestion is to use the official installer if you are just starting out and you don't use Homebrew already, otherwise, Homebrew is my favorite solution.
 
 
+## Node JS Fundamentals (hand-picked items from the Getting Started list [link - https://nodejs.dev/learn])
+  - The V8 Javascript Engine
+  - Node JS Console REPL (Read Execute Print Loop)
+  - Expose Functionality (module.exports / exports)
+  - npm Package Manager
+  - package.json Guide
+  - package-lock.json file (New)
+  - Semantic Versioning
+  - npm dependencies and devDependencies
+  - The npx Node.js Package Runner
+  - The Node.js Event Loop (Starting from here, better don't skip (>.<) )
+
+
 # React JS
 Reference link: https://reactjs.org/ 
 
