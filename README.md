@@ -30,7 +30,7 @@ Editor's recommendation:
 > My suggestion is to use the official installer if you are just starting out and you don't use Homebrew already, otherwise, Homebrew is my favorite solution.
 
 
-## Node JS Fundamentals
+## Node JS Fundamentals (hand-picked items from the Getting Started list [link - https://nodejs.dev/learn])
   - The V8 Javascript Engine
   - Node JS Console REPL (Read Execute Print Loop)
   - Expose Functionality (module.exports / exports)
