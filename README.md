@@ -44,6 +44,35 @@ Editor's recommendation:
 
 
 # React JS
+> React.js is a JavaScript library for building user interfaces
+  
+## React JS Fundamentals (The documentation from [link - https://reactjs.org/docs/getting-started.html] is well organised. Just go through and find what you need there.)
+                                                                    
+<ul>
+  <li>
+    Installation
+    <ul>
+      <li>
+        This section will help you to understand what React.js can do for different purposes. For example, 
+        <ul>
+          <li>learning React or creating a new single-page app</li>
+          <li>building a server-rendered website with Node.js</li>
+          <li>building a static content-oriented website</li>
+          <li>building a component library or integrating with an existing codebase</li>
+        </ul>
+      </li>
+    </ul>    
+  </li>
+  <li>
+    Main Concepts
+    <ul>
+      <li>All about Basic. You can also try out https://reactjs.org/tutorial/tutorial.html as another way to learn the Basic</li>
+    </ul>   
+  </li> 
+  <li>Advanced Guide</li> 
+  <li>Testing</li> 
+</ul>
+  
 Reference link: https://reactjs.org/ 
 
 # LESS 
